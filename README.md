@@ -5,7 +5,7 @@ SW-api Box is dynamic single page application that lets users interact with data
 ### To get started, run:
 
 ```
-git clone git@github.com:GraySmith00/gs-ml-swapibox.git
+git clone https://github.com/michaelyons/ml-gs-swapAPI-Box.git
 ```
 
 ### Install the dependencies
